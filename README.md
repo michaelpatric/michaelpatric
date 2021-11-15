@@ -1,7 +1,7 @@
 - 👋 Olá, sou  @michaelpatric
 - 👀 Estou interessado em aprender PHP
 - 🌱 Atualmente estou aprendendo HTML/ CSS / JavaScript
-- 📫 e-mail: michaelpatric@outook.com
+- 📫 e-mail: michaelpatricfavero@gmail.com
 
 <!---
 michaelpatric/michaelpatric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
