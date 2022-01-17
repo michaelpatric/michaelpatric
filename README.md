@@ -1,6 +1,6 @@
 - 👋 Olá, sou  @michaelpatric
-- 👀 Estou interessado em aprender PHP
-- 🌱 Atualmente estou aprendendo HTML/ CSS / JavaScript
+- 👀 Estou interessado em entrar para área de desenvolvimento web
+- 🌱 Atualmente estou aprendendo HTML / CSS / PHP
 - 📫 e-mail: michaelpatricfavero@gmail.com
 
 <!---
