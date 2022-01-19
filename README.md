@@ -1,7 +1,6 @@
 - 👋 Olá, sou  @michaelpatric
-- 👀 Estou interessado em entrar para área de desenvolvimento web
 - 🌱 Atualmente estou aprendendo HTML / CSS / PHP
-- 📫 e-mail: michaelpatricfavero@gmail.com
+- 📫 e-mail: michaelpatric@outlook.com
 
 <!---
 michaelpatric/michaelpatric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
